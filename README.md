@@ -1,4 +1,4 @@
-epoch-algorithm-appia
-=====================
+Epoch algorithm implemented in appia
+==========================================
 
-Epoch Leader Algorithm implemented in Appia Framework.
+Distributed algorithm "Epoch Leader" implemented in Appia Framework.
